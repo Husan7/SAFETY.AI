@@ -1,4 +1,4 @@
-The problem SAFETY.AI solves
+The problem SAFETY.AI 
 A drowsiness detection system addresses several critical problems, especially in contexts such as driving, workplace safety, and monitoring individuals in other high-risk activities. 
 
 
